@@ -1,0 +1,8 @@
+**/.project
+**/.settings
+**/.svn
+**/.checkstyle
+**/.classpath
+**/target/
+**/*.orig
+**/bin/
